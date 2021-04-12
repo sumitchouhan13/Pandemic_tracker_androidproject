@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="example_one">
+        <item>PANDEMIC</item>
+        <item>PANDEMIC</item>
+    </string-array>
+    <string-array name="example_two">
+        <item>TRACKER</item>
+        <item>TRACKER</item>
+    </string-array>
+</resources>

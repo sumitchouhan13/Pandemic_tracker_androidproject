@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PandemicTracker</string>
+
+    <string name="title1">TIP 1</string>
+    <string name="title2">TIP 2</string>
+    <string name="title3">TIP 3</string>
+    <string name="title4">TIP 4</string>
+    <string name="title5">TIP 5</string>
+    <string name="description1">Stay at least 6 feet (about 2 arms’ length) from other people.</string>
+    <string name="description2">Everyone should wear a cloth face cover when they have to go out in public, for example to the grocery store or to pick up other necessities.</string>
+    <string name="description3">Wash your hands often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.</string>
+    <string name="description4">The person who is sick should stay home unless they need medical care.</string>
+    <string name="description5">Be alert for symptoms. Watch for fever, cough, shortness of breath, or other symptoms of COVID-19.</string>
+
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+
+    <string-array name="Symptoms">
+        <item>Symptom 1</item>
+        <item>Symptom 2</item>
+        <item>Symptom 3</item>
+        <item>Symptom 4</item>
+        <item>Symptom 5</item>
+        <item>Symptom 6</item>
+        <item>Symptom 7</item>
+        <item>Symptom 8</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>High Fever</item>
+        <item>Dry Cough</item>
+        <item>Tiredness</item>
+        <item>Shortness Of Breath</item>
+        <item>Chills, sometimes\n with shaking</item>
+        <item>Body Aches</item>
+        <item>Nausea</item>
+        <item>Diarrhea</item>
+    </string-array>
+</resources>

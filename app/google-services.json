@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699886866781",
+    "firebase_url": "https://pandemictracker-efa78.firebaseio.com",
+    "project_id": "pandemictracker-efa78",
+    "storage_bucket": "pandemictracker-efa78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699886866781:android:c68ebb457822de219ad8b4",
+        "android_client_info": {
+          "package_name": "com.example.pandemictracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699886866781-njenaibn0jre82g1bt1jp6u5qpsa9h5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfC63eUoBju7lnqyLnrLrRB4XA1ZOJXwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699886866781-njenaibn0jre82g1bt1jp6u5qpsa9h5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
